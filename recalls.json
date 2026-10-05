@@ -1,0 +1,1468 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-20T11:20:17Z",
+  "sources": [
+    "NHTSA",
+    "Transport Canada"
+  ],
+  "recalls": [
+    {
+      "id": "nhtsa-26V396000",
+      "make": "Piaggio",
+      "models": [
+        "Liberty 150",
+        "Liberty 50 4T"
+      ],
+      "years": [
+        2026
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "A fault in the electrical circuit may cause the low beam and/or high beam headlight to unexpectedly turn off.",
+      "summary": "Piaggio Group Americas, Inc. (PGA) is recalling certain 2026 Liberty 50 and Liberty 150 motorcycles. A fault in the electrical circuit may cause the low beam and/or high beam headlight to unexpectedly turn off. In certain conditions, the instrument panel lighting may also fail to illuminate.",
+      "risk": "Loss of lighting can reduce visibility, increasing the risk of a crash.",
+      "remedy": "Dealers will inspect the date code label affixed to the headlight assembly, and if the date is between January 1, 2026 and January 30, 2026, the headlight will be replaced, free of charge. PGA has not yet provided a schedule for owner notification. Owners may contact PGA's customer service at 212-380-4400, or customercare@us.piaggio.com.",
+      "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+      "campaignNumber": "26V396000",
+      "manufacturerCampaign": "",
+      "productionRange": [
+        "2026-01-01",
+        "2026-02-02"
+      ],
+      "unitsAffected": 112,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=26V396000",
+      "publishedAt": "2026-06-18",
+      "sourceModel": "LIBERTY 50",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "tc-2026267",
+      "make": "Vespa",
+      "models": [
+        "GTV 310 (Sei Giorni)",
+        "Primavera 150",
+        "Primavera 50"
+      ],
+      "years": [
+        2026
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain scooters, the wrong rearview mirrors may have been installed",
+      "summary": "On certain scooters, the wrong rearview mirrors may have been installed. As a result, the mirrors are missing the \"Objects in mirror are closer than they appear.\" warning. Note: This recall only affects certain Officina 8 models.",
+      "risk": "If the warning is missing, the rider may not be aware that objects reflected in the mirrors appear farther away than they actually are. This could increase the risk of a crash.",
+      "remedy": "Piaggio will notify owners by mail and advise you to take your scooter to a dealership to replace the rearview mirrors.",
+      "component": "Visual System",
+      "campaignNumber": "2026267",
+      "manufacturerCampaign": "PP2ZZQ2603",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2026267",
+      "publishedAt": "2026-06-02",
+      "sourceModel": "GTV 310",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-26V302000",
+      "make": "Vespa",
+      "models": [
+        "GTV 310 (Sei Giorni)",
+        "Primavera 150",
+        "Primavera 50"
+      ],
+      "years": [
+        2026
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The convex mirror warning \"objects in mirror are closer than they appear,\" is missing.",
+      "summary": "Piaggio Group Americas, Inc. (PGA) is recalling certain 2026 Vespa GTV 310, Vespa Primavera 150, and Vespa Primavera 50 motorcycles in the color Officina 8. The convex mirror warning \"objects in mirror are closer than they appear,\" is missing.",
+      "risk": "Without the convex mirror warning, riders may misjudge the distance of other vehicles, resulting in unsafe lane changes or maneuvers, increasing the risk of a crash.",
+      "remedy": "PGA will install new mirrors with the warning message, free of charge. Owner notification letters were mailed May 18, 2026. Owners may contact PGA's customer service at 212-380-4400, or customercare@us.piaggio.com. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning May 18, 2026.",
+      "component": "VISIBILITY:REARVIEW MIRRORS/DEVICES:EXTERIOR",
+      "campaignNumber": "26V302000",
+      "manufacturerCampaign": "PP2ZZQ2603",
+      "productionRange": [
+        "2025-06-11",
+        "2026-02-18"
+      ],
+      "unitsAffected": 285,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=26V302000",
+      "publishedAt": "2026-05-12",
+      "sourceModel": "GTV 310",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-25V778000",
+      "make": "Yamaha",
+      "models": [
+        "XMAX 125",
+        "XMAX 250",
+        "XMAX 300",
+        "XMAX 400"
+      ],
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The camshaft retainer bolt may loosen and not properly secure the camshaft, resulting in an engine stall.",
+      "summary": "Yamaha Motor Company, Ltd. (Yamaha) is recalling certain 2018-2022 XMAX scooters. The camshaft retainer bolt may loosen and not properly secure the camshaft, resulting in an engine stall.",
+      "risk": "An engine stall can cause a loss of control, increasing the risk of a crash or injury.",
+      "remedy": "Owners are advised not to ride their scooter until the remedy has been completed. Dealers will install a new camshaft plate kit, free of charge. Owner notification letters are expected to be mailed November 20, 2025. Owners may contact Yamaha's customer service at 1-800-962-7926. Yamaha's number for this recall is 990184. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning November 24, 2025.",
+      "component": "ENGINE AND ENGINE COOLING:CRITICAL FASTENERS",
+      "campaignNumber": "25V778000",
+      "manufacturerCampaign": "990184",
+      "productionRange": [
+        "",
+        ""
+      ],
+      "unitsAffected": 2715,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=25V778000",
+      "publishedAt": "2025-11-12",
+      "sourceModel": "XMAX",
+      "matchConfidence": "family"
+    },
+    {
+      "id": "tc-2025378",
+      "make": "Yamaha",
+      "models": [
+        "XMAX 125",
+        "XMAX 250",
+        "XMAX 300",
+        "XMAX 400"
+      ],
+      "years": [
+        2022
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain scooters, the bolt securing the camshaft retainer plate could become loose",
+      "summary": "On certain scooters, the bolt securing the camshaft retainer plate could become loose. If this happens, the engine could stall while riding and you may not be able to restart it.",
+      "risk": "A sudden loss of engine power could increase the risk of a crash.",
+      "remedy": "To reduce the safety risk, Yamaha advises not to ride your scooter until the recall repairs are completed. Yamaha will notify owners by mail and advise you to take your scooter to a dealership to replace the camshaft retainer plate.",
+      "component": "Engine",
+      "campaignNumber": "2025378",
+      "manufacturerCampaign": "M25-015",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2025378",
+      "publishedAt": "2025-07-14",
+      "sourceModel": "XMAX",
+      "matchConfidence": "family"
+    },
+    {
+      "id": "nhtsa-25V195000",
+      "make": "Honda",
+      "models": [
+        "ADV 160"
+      ],
+      "years": [
+        2024,
+        2025
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The oil pump driven gear may fail, resulting in a loss of drive power.",
+      "summary": "Honda (American Honda Motor Co.) is recalling certain 2024-2025 ADV160 scooters. The oil pump driven gear may fail, resulting in a loss of drive power.",
+      "risk": "Loss of drive power increases the risk of a crash or injury.",
+      "remedy": "Dealers will replace the oil pump driven gear, free of charge. Owner letters were mailed August 6, 2025. Owners may contact Honda's customer service at 866-784-1870. Honda's number for this recall is KR9.",
+      "component": "ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION:PUMP",
+      "campaignNumber": "25V195000",
+      "manufacturerCampaign": "KR9",
+      "productionRange": [
+        "2023-03-22",
+        "2024-11-06"
+      ],
+      "unitsAffected": 3316,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=25V195000",
+      "publishedAt": "2025-03-27",
+      "sourceModel": "ADV160",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "tc-2024759",
+      "make": "Suzuki",
+      "models": [
+        "Burgman 400"
+      ],
+      "years": [
+        2023,
+        2024
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain scooters, the metal pipe portion of the fuel supply hose may have been bent during installation",
+      "summary": "On certain scooters, the metal pipe portion of the fuel supply hose may have been bent during installation. As a result, the supply hose could become damaged by contact with the fuel vapor hose and cause a fuel leak.",
+      "risk": "A fuel leak can create the risk of a fire.",
+      "remedy": "Suzuki will notify owners by mail and advise you to take your scooter to a dealership to replace the fuel hose set.",
+      "component": "Fuel System",
+      "campaignNumber": "2024759",
+      "manufacturerCampaign": "2179",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2024759",
+      "publishedAt": "2024-12-13",
+      "sourceModel": "BURGMAN 400 (AN400A)",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-24V923000",
+      "make": "Suzuki",
+      "models": [
+        "Burgman 400"
+      ],
+      "years": [
+        2023,
+        2024,
+        2025
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The fuel supply hose assembly may contact the fuel vapor hose assembly, causing the fuel supply hose to become damaged and leak fuel.",
+      "summary": "Suzuki Motor USA, LLC (Suzuki) is recalling certain 2023-2025 Burgman 400 (AN400AM3-M5) scooters. The fuel supply hose assembly may contact the fuel vapor hose assembly, causing the fuel supply hose to become damaged and leak fuel.",
+      "risk": "A fuel leak in the presence of an ignition source increases the risk of fire.",
+      "remedy": "Owners are advised that if they must ride the scooter before the safety recall repair has been completed, they should check the scooter for fuel leakage and proper operation as outlined in the \"Inspection before riding\" checklist in the owner's manual. Dealers will replace the fuel supply hose assembly and fuel vapor hose assembly with new parts, free of charge. Owner notification letters were mailed January 10, 2025. Owners may contact Suzuki customer service at 1-800-934-0934. Suzuki's number for this recall is 3A05.",
+      "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+      "campaignNumber": "24V923000",
+      "manufacturerCampaign": "3A05",
+      "productionRange": [
+        "2022-09-15",
+        "2024-06-20"
+      ],
+      "unitsAffected": 556,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=24V923000",
+      "publishedAt": "2024-12-11",
+      "sourceModel": "AN400",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-24V825000",
+      "make": "Honda",
+      "models": [
+        "Metropolitan 50 (Giorno)"
+      ],
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "An improper seal between the transmission case and left-side crankcase may allow transmission fluid to leak.",
+      "summary": "Honda (American Honda Motor Co.) is recalling certain 2016-2025 Metropolitan scooters. An improper seal between the transmission case and left-side crankcase may allow transmission fluid to leak.",
+      "risk": "A transmission fluid leak can cause the driveshaft bearings to fail, causing a sudden loss of drive power and increasing the risk of a crash.",
+      "remedy": "Dealers will inspect and repair the transmission case as necessary, free of charge. Owner notification letters were mailed December 30, 2024. Owners may contact Honda customer service at 1-866-784-1870. Honda's number for this recall is KR0.",
+      "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+      "campaignNumber": "24V825000",
+      "manufacturerCampaign": "KR0",
+      "productionRange": [
+        "",
+        ""
+      ],
+      "unitsAffected": 23483,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=24V825000",
+      "publishedAt": "2024-11-01",
+      "sourceModel": "Metropolitan",
+      "matchConfidence": "family"
+    },
+    {
+      "id": "tc-2024662",
+      "make": "Honda",
+      "models": [
+        "Metropolitan 50 (Giorno)"
+      ],
+      "years": [
+        2016,
+        2017,
+        2023,
+        2024,
+        2025
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain scooters, the engine crankcase may not have been manufactured properly",
+      "summary": "On certain scooters, the engine crankcase may not have been manufactured properly. As a result, transmission oil could leak and cause the driveshaft bearings to seize. If this happens, the rear wheel could lock up suddenly while riding.",
+      "risk": "A rear wheel that locks up suddenly could cause a loss of control. Additionally, an oil leak could create a hazard for others. Both issues could increase the risk of a crash.",
+      "remedy": "Honda will notify owners by mail and advise you to take your scooter to a dealership to inspect and, if necessary, repair the transmission housing.",
+      "component": "Powertrain",
+      "campaignNumber": "2024662",
+      "manufacturerCampaign": "ML12",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2024662",
+      "publishedAt": "2024-10-31",
+      "sourceModel": "GIORNO",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-22V217000",
+      "make": "Piaggio",
+      "models": [
+        "MP3 500"
+      ],
+      "years": [
+        2020,
+        2021
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The brake hose terminal fittings zinc plating may contaminate the brake fluid, decreasing brake performance.",
+      "summary": "Piaggio Group Americas, Inc. (Piaggio) is recalling certain 2020-2021 MP3 500 HPE scooters. The brake hose terminal fittings zinc plating may contaminate the brake fluid, decreasing brake performance.",
+      "risk": "Brakes that do not perform as expected, and require the driver to apply more force to the brake levers or pedals, increase the risk of a crash.",
+      "remedy": "Dealers will perform a complete brake system flush, free of charge. Owner notification letters were mailed April 18, 2022. Owners may contact Piaggio customer service at 1-212-380-4400.",
+      "component": "SERVICE BRAKES, HYDRAULIC:FLUID",
+      "campaignNumber": "22V217000",
+      "manufacturerCampaign": "PP2ZZQ2201",
+      "productionRange": [
+        "",
+        ""
+      ],
+      "unitsAffected": 27,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=22V217000",
+      "publishedAt": "2022-04-01",
+      "sourceModel": "MP3 500",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-21V558000",
+      "make": "Suzuki",
+      "models": [
+        "Burgman 200"
+      ],
+      "years": [
+        2019,
+        2020
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The fuel hose assembly may leak fuel.",
+      "summary": "Suzuki Motor USA, LLC (Suzuki) is recalling certain 2019-2020 Burgman 200 UH200 scooters. The fuel hose assembly may leak fuel.",
+      "risk": "A fuel leak increases the risk of fire.",
+      "remedy": "Dealers will replace the fuel hose assembly, free of charge. Owner notification letters were mailed August 20, 2021. Owners may contact Suzuki customer service at (714) 572-1490. Suzuki's number for this recall is 2A97.",
+      "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+      "campaignNumber": "21V558000",
+      "manufacturerCampaign": "2A97",
+      "productionRange": [
+        "",
+        ""
+      ],
+      "unitsAffected": 270,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=21V558000",
+      "publishedAt": "2021-07-22",
+      "sourceModel": "UH200",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-21V299000",
+      "make": "Suzuki",
+      "models": [
+        "Burgman 200"
+      ],
+      "years": [
+        2019,
+        2020
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The speedometer assembly resistors may corrode and cause a loss of power to the wheel speed sensor, preventing the speedometer and odometer from displaying info",
+      "summary": "Suzuki Motor USA, LLC (Suzuki) is recalling certain 2019-2020 UH200 motorcycles. The speedometer assembly resistors may corrode and cause a loss of power to the wheel speed sensor, preventing the speedometer and odometer from displaying information.",
+      "risk": "The operator will not know the vehicle speed without a functioning speedometer, increasing the risk of a crash.",
+      "remedy": "Dealers will replace the speedometer assembly, free of charge. Owner notification letters were mailed May 24, 2021. Owners may contact Suzuki customer service at 714-572-1490 or www.suzukicycles.com.",
+      "component": "ELECTRICAL SYSTEM:INSTRUMENT PANEL:SPEEDOMETER/ODOMETER",
+      "campaignNumber": "21V299000",
+      "manufacturerCampaign": "2A96",
+      "productionRange": [
+        "",
+        ""
+      ],
+      "unitsAffected": 270,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=21V299000",
+      "publishedAt": "2021-04-28",
+      "sourceModel": "UH200",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "tc-2021215",
+      "make": "Yamaha",
+      "models": [
+        "SMAX 155 (Majesty S)"
+      ],
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain scooters, the primary sheave nut in the clutch could loosen and fall off over time",
+      "summary": "On certain scooters, the primary sheave nut in the clutch could loosen and fall off over time. If this happens, the engine could stall and you may not be able to restart it. Note: You may notice abnormal engine noises if the primary sheave nut comes loose.",
+      "risk": "A sudden loss of engine power could increase the risk of a crash.",
+      "remedy": "Yamaha will notify owners by mail and instruct you to take your scooter to a dealer to replace the primary sheave nut and washer.",
+      "component": "Engine",
+      "campaignNumber": "2021215",
+      "manufacturerCampaign": "M21-012",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2021215",
+      "publishedAt": "2021-04-09",
+      "sourceModel": "SMAX",
+      "matchConfidence": "family"
+    },
+    {
+      "id": "tc-2020474",
+      "make": "Vespa",
+      "models": [
+        "GTS 300"
+      ],
+      "years": [
+        2020,
+        2021
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain GTS 300 models, the material of brake hose connections could cause a chemical reaction with the brake fluid",
+      "summary": "On certain GTS 300 models, the material of brake hose connections could cause a chemical reaction with the brake fluid. This could result in an increase in travel from the front and/or rear brake levers, and cause reduced braking.",
+      "risk": "Reduced braking can cause extended stopping distances and increase the risk of a crash.",
+      "remedy": "Piaggio will notify owners by mail and instruct you to take your scooter to a dealer to inspect and test the brake system. If necessary, dealers will flush and replace the brake fluid, and/or replace the brake hoses.",
+      "component": "Brakes",
+      "campaignNumber": "2020474",
+      "manufacturerCampaign": "PP2ZZQ2003_GTS",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2020474",
+      "publishedAt": "2020-10-08",
+      "sourceModel": "GTS",
+      "matchConfidence": "family"
+    },
+    {
+      "id": "nhtsa-20V617000",
+      "make": "Vespa",
+      "models": [
+        "GTS 300",
+        "GTV 300"
+      ],
+      "years": [
+        2020,
+        2021
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "Improperly galvanized brake pipe terminals can result in excessive front and/or rear brake levers travel during braking.",
+      "summary": "Piaggio Group Americas. Inc. (Piaggio) is recalling certain 2020-2021 Vespa GTS 300 and GTV 300 scooters. Improperly galvanized brake pipe terminals can result in excessive front and/or rear brake levers travel during braking.",
+      "risk": "Reduced braking efficiency can lengthen the distance needed to stop the scooter, increasing the risk of a crash.",
+      "remedy": "Piaggio will notify owners, and dealers will test the O-Ring, replace the brake fluid and bleed the brake system, or replace the brake pipes based on the vehicle's age, free of charge. The recall began October 21, 2020. Owners may contact Piaggio customer service at 1-212-380-4433. Piaggio's number for this recall is PP2ZZQ2003_GTS/GTV.",
+      "component": "SERVICE BRAKES, HYDRAULIC",
+      "campaignNumber": "20V617000",
+      "manufacturerCampaign": "PP2ZZQ2003_GTS/GTV",
+      "productionRange": [
+        "",
+        ""
+      ],
+      "unitsAffected": 483,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=20V617000",
+      "publishedAt": "2020-10-06",
+      "sourceModel": "GTV 300",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-20V611000",
+      "make": "Yamaha",
+      "models": [
+        "XMAX 125",
+        "XMAX 250",
+        "XMAX 300",
+        "XMAX 400"
+      ],
+      "years": [
+        2018,
+        2019,
+        2020
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "Condensation or other contaminates may adhere to the rear reflector lens reducing its effectiveness.",
+      "summary": "Yamaha Motor Corporation, USA (Yamaha) is recalling certain 2015-2020 YZF-R3, 2020 MT03 and 2018-2020 XMAX scooters. Condensation or other contaminates may adhere to the rear reflector lens reducing its effectiveness.",
+      "risk": "A less reflective rear reflector increases the risk of crash.",
+      "remedy": "Yamaha will notify owners, and dealers will replace the rear reflector, free of charge. The recall began October 20, 2020. Owners may contact Yamaha customer service at 1-888-266-3085. Yamaha's number for this recall is 990139.",
+      "component": "VISIBILITY",
+      "campaignNumber": "20V611000",
+      "manufacturerCampaign": "990139",
+      "productionRange": [
+        "",
+        ""
+      ],
+      "unitsAffected": 31000,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=20V611000",
+      "publishedAt": "2020-10-05",
+      "sourceModel": "XMAX",
+      "matchConfidence": "family"
+    },
+    {
+      "id": "tc-2020420",
+      "make": "Piaggio",
+      "models": [
+        "MP3 500"
+      ],
+      "years": [
+        2019
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain scooters, the material of brake hose connections could cause a chemical reaction with the brake fluid",
+      "summary": "On certain scooters, the material of brake hose connections could cause a chemical reaction with the brake fluid. This can cause reduced braking, and an increase in travel of the brake lever and brake pedal that is required to stop the scooter.",
+      "risk": "Reduced braking can cause extended stopping distances and increase the risk of a crash.",
+      "remedy": "Piaggio will notify owners by mail and instruct you to take your scooter to a dealer to flush and replace the brake fluid.",
+      "component": "Brakes",
+      "campaignNumber": "2020420",
+      "manufacturerCampaign": "PP2ZZQ1904_MP3",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2020420",
+      "publishedAt": "2020-09-03",
+      "sourceModel": "MP3 500",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-20V524000",
+      "make": "Piaggio",
+      "models": [
+        "MP3 500"
+      ],
+      "years": [
+        2019,
+        2020
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The brake lines may have been improperly galvanized, allowing hydrogen to be released into the brake fluid.",
+      "summary": "Piaggio Group Americas, Inc. (Piaggio) is recalling certain 2019-2020 MP3 500 motorcycles. The brake lines may have been improperly galvanized, allowing hydrogen to be released into the brake fluid.",
+      "risk": "Hydrogen in the braking system can reduce the brake lever's ability to activate the brakes, increasing the risk of a crash.",
+      "remedy": "Piaggio will notify owners, and dealers will perform a complete brake system flush, free of charge. The recall began September 10, 2020. Owners may contact Piaggio customer service at 1-212-380-4433. Piaggio's number for this recall is PP2ZZQ1904_MP3.",
+      "component": "SERVICE BRAKES, HYDRAULIC",
+      "campaignNumber": "20V524000",
+      "manufacturerCampaign": "PP2ZZQ1904_MP3",
+      "productionRange": [
+        "",
+        ""
+      ],
+      "unitsAffected": 123,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=20V524000",
+      "publishedAt": "2020-08-28",
+      "sourceModel": "MP3 500",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-20V350000",
+      "make": "Kymco",
+      "models": [
+        "Like 150i"
+      ],
+      "years": [
+        2018,
+        2019
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "Excessive grease applied to the ABS sensor magnetic ring may cause the deterioration of the magnetic ring, resulting in ABS failure.",
+      "summary": "KYMCO USA (KYMCO) is recalling certain 2018-2019 Like 150i scooters. Excessive grease applied to the ABS sensor magnetic ring may cause the deterioration of the magnetic ring, resulting in ABS failure.",
+      "risk": "Without ABS, controlling the scooter in an emergency stopping scenario may be affected, increasing risk of a crash.",
+      "remedy": "KYMCO will notify owners, and dealers will clean the speed sensor sleeve and replace the magnetic ring in the speed sensor, free of charge. The recall began July 22, 2020. Owners may contact KYMCO customer service at 1-888-235-3417. KYMCO's recall number for this recall is Like150-2020-Recall.",
+      "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+      "campaignNumber": "20V350000",
+      "manufacturerCampaign": "Like150-2020-Recall",
+      "productionRange": [
+        "2018-02-13",
+        "2019-05-14"
+      ],
+      "unitsAffected": 1786,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=20V350000",
+      "publishedAt": "2020-06-12",
+      "sourceModel": "LIKE 150I",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "tc-2020226",
+      "make": "Yamaha",
+      "models": [
+        "SMAX 155 (Majesty S)"
+      ],
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain scooters, the cylinder head nuts may not have been tightened properly and could loosen",
+      "summary": "On certain scooters, the cylinder head nuts may not have been tightened properly and could loosen. If this happens, the cylinder head gasket can fail. This could prevent the engine from starting, or could cause the engine to stall.",
+      "risk": "A sudden loss of engine power could increase the risk of a crash.",
+      "remedy": "Yamaha will notify owners by mail and instruct you to take your scooter to a dealer to replace the head gasket. To reduce the safety risk, Yamaha recommends that you should avoid riding your scooter until the recall repairs have been completed, except to take it to the dealer for this repair.",
+      "component": "Engine",
+      "campaignNumber": "2020226",
+      "manufacturerCampaign": "M20-058",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2020226",
+      "publishedAt": "2020-05-25",
+      "sourceModel": "SMAX",
+      "matchConfidence": "family"
+    },
+    {
+      "id": "tc-2019597",
+      "make": "Vespa",
+      "models": [
+        "GTS 300"
+      ],
+      "years": [
+        2019,
+        2020
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain GTS 300 models, the material of brake hose connections could cause a chemical reaction with the brake fluid",
+      "summary": "On certain GTS 300 models, the material of brake hose connections could cause a chemical reaction with the brake fluid. This could result in an increase in travel from the front and/or rear brake levers, and cause reduced braking.",
+      "risk": "Reduced braking could result in extend stopping distances and increase the risk of a crash.",
+      "remedy": "The company will notify owners by mail and instruct you to take your vehicle to a dealer to install master cylinder bleed fittings on the front and rear master cylinders. Dealers will also flush and replace the brake fluid.",
+      "component": "Brakes",
+      "campaignNumber": "2019597",
+      "manufacturerCampaign": "PP2ZZQ1904_GTS",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2019597",
+      "publishedAt": "2019-11-25",
+      "sourceModel": "GTS",
+      "matchConfidence": "family"
+    },
+    {
+      "id": "nhtsa-19V826000",
+      "make": "Vespa",
+      "models": [
+        "GTS 300",
+        "GTV 300"
+      ],
+      "years": [
+        2019,
+        2020
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The brake lines may have been improperly galvanized, allowing hydrogen to be released into the brake fluid.",
+      "summary": "Piaggio Group Americas. Inc. (Piaggio) is recalling certain 2019 Vespa GTV 300, GTS 300, and 2020 Vespa GTS 300 HPE scooters. The brake lines may have been improperly galvanized, allowing hydrogen to be released into the brake fluid.",
+      "risk": "Hydrogen in the braking system can reduce the brake lever's ability to activate the brakes, increasing the risk of a crash.",
+      "remedy": "Piaggio will notify owners, and dealers will install front and rear master cylinder brake flush fittings, and perform a complete brake system flush, free of charge. The recall began November 27, 2019. Owners may contact Piaggio customer service at 1-212-380-4433. Piaggio's number for this recall is PP2ZZQ1904_GTS.",
+      "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+      "campaignNumber": "19V826000",
+      "manufacturerCampaign": "PP2ZZQ1904_GTS",
+      "productionRange": [
+        "2018-10-01",
+        "2018-12-05"
+      ],
+      "unitsAffected": 1328,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=19V826000",
+      "publishedAt": "2019-11-18",
+      "sourceModel": "GTV 300",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-19V377000",
+      "make": "Suzuki",
+      "models": [
+        "Burgman 200"
+      ],
+      "years": [
+        2018,
+        2019
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The rivet connections may fail and allow the movable driven face (drive plate) of the Continuously Variable Transmission (CVT) to break.",
+      "summary": "Suzuki Motor of America, Inc. (Suzuki) is recalling certain 2018-2019 Burgman 200/UH200 scooters. The rivet connections may fail and allow the movable driven face (drive plate) of the Continuously Variable Transmission (CVT) to break.",
+      "risk": "If the drive plate breaks, the scooter will lose power to the rear wheel, increasing the risk of a crash.",
+      "remedy": "Suzuki will notify owners, and dealers will replace the drive plate, free of charge. The recall began June 5, 2019. Owners may contact Suzuki customer service at 1-714-572-1490. Suzuki's number for this recall is 2A89.",
+      "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+      "campaignNumber": "19V377000",
+      "manufacturerCampaign": "2A89",
+      "productionRange": [
+        "2017-09-05",
+        "2018-01-23"
+      ],
+      "unitsAffected": 300,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=19V377000",
+      "publishedAt": "2019-05-16",
+      "sourceModel": "BURGMAN 200",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-19V037000",
+      "make": "Kymco",
+      "models": [
+        "Like 150i"
+      ],
+      "years": [
+        2018,
+        2019
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The fuel pump may leak fuel from the electrical connection area when the tank is full.",
+      "summary": "KYMCO USA (KYMCO) is recalling certain 2018-2019 Like 150i motorcycles. The fuel pump may leak fuel from the electrical connection area when the tank is full.",
+      "risk": "A fuel pump leak from around the electrical connection area has an increased risk of a fire.",
+      "remedy": "KYMCO will notify owners, and dealers will replace the fuel pump, free of charge. The recall began March 19, 2019. Owners may contact KYMCO customer service at 1-888-235-3417.",
+      "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+      "campaignNumber": "19V037000",
+      "manufacturerCampaign": "",
+      "productionRange": [
+        "2018-02-10",
+        "2018-11-15"
+      ],
+      "unitsAffected": 910,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=19V037000",
+      "publishedAt": "2019-01-16",
+      "sourceModel": "LIKE 150I",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-19V036000",
+      "make": "Kymco",
+      "models": [
+        "Like 200i"
+      ],
+      "years": [
+        2018
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The fuel line clamp may loosen allowing fuel to leak.",
+      "summary": "KYMCO USA (KYMCO) is recalling certain 2018 Like 200i motorcycles. The fuel line clamp may loosen allowing fuel to leak.",
+      "risk": "A fuel leak in the presence of an ignition source can increase the risk of a fire.",
+      "remedy": "KYMCO will notify owners and dealers will inspect and correct the fuel line clamp tightness, free of charge. The recall began March 19, 2019. Owners may contact KYMCO customer service at 1-888-909-6301.",
+      "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+      "campaignNumber": "19V036000",
+      "manufacturerCampaign": "",
+      "productionRange": [
+        "2017-06-29",
+        "2018-07-20"
+      ],
+      "unitsAffected": 323,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=19V036000",
+      "publishedAt": "2019-01-16",
+      "sourceModel": "LIKE 200I",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "tc-2017378",
+      "make": "Piaggio",
+      "models": [
+        "Liberty 50 4T"
+      ],
+      "years": [
+        2018
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain scooters, the nut holding the swingarm to the frame may not have been tightened to specification",
+      "summary": "On certain scooters, the nut holding the swingarm to the frame may not have been tightened to specification. This could result in the swingarm becoming loose, which could affect vehicle handling and stability and could result in loss of control, increasing the risk of a crash causing injury and/or damage to property. Correction: Dealers will ensure the nut is tightened to specification, and replace the bolt/nut assembly as necessary.",
+      "risk": "",
+      "remedy": "",
+      "component": "Structure",
+      "campaignNumber": "2017378",
+      "manufacturerCampaign": "PPJZZQ1703",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2017378",
+      "publishedAt": "2017-08-02",
+      "sourceModel": "LIBERTY 50 IGET 3V",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-17V469000",
+      "make": "Piaggio",
+      "models": [
+        "Liberty 50 4T"
+      ],
+      "years": [
+        2018
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The nut that holds the rear swing arm to the frame may loosen allowing the swing arm to move out of position.",
+      "summary": "Piaggio Group Americas, Inc. (Piaggio) is recalling certain 2018 Liberty 50 iGet 3V scooters. The nut that holds the rear swing arm to the frame may loosen allowing the swing arm to move out of position.",
+      "risk": "The shifting swing arm may cause a loss of control, increasing the risk of a crash.",
+      "remedy": "Piaggio will notify owners, and dealers will check the swing arm nut torque, tightening or replacing the nut, bolt and washer, free of charge. The recall began on August 2, 2017. Owners may contact Piaggio customer service at 1-212-380-4433.",
+      "component": "SUSPENSION:REAR",
+      "campaignNumber": "17V469000",
+      "manufacturerCampaign": "",
+      "productionRange": [
+        "2017-02-17",
+        "2017-04-21"
+      ],
+      "unitsAffected": 180,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=17V469000",
+      "publishedAt": "2017-07-24",
+      "sourceModel": "LIBERTY 50 iGET 3V",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-17V468000",
+      "make": "Piaggio",
+      "models": [
+        "Fly 150"
+      ],
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The front brake disc mounting screws may loosen and contact the brake caliper holding plate or the fork leg.",
+      "summary": "Piaggio Group Americas, Inc. (Piaggio) is recalling certain 2014-2017 Piaggio Fly 150 3V ie scooters. The front brake disc mounting screws may loosen and contact the brake caliper holding plate or the fork leg.",
+      "risk": "If a screw loosens and contacts the caliper holding plate or the fork leg, the front wheel may suddenly lock up, increasing the risk of crash.",
+      "remedy": "Piaggio has notified owners, and dealers will tighten the front brake disc mounting screws after applying a thread-locking adhesive, free of charge. The recall began July 31, 2017. Owners may contact Piaggio customer service at 1-212-380-4433. Piaggio's number for this recall is 0000313.",
+      "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC",
+      "campaignNumber": "17V468000",
+      "manufacturerCampaign": "0000313",
+      "productionRange": [
+        "2013-03-28",
+        "2016-09-21"
+      ],
+      "unitsAffected": 1200,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=17V468000",
+      "publishedAt": "2017-07-22",
+      "sourceModel": "FLY 150 3V",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "tc-2016606",
+      "make": "Yamaha",
+      "models": [
+        "SMAX 155 (Majesty S)"
+      ],
+      "years": [
+        2015,
+        2016
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain motorcycles, an incorrect speed sensor cable clamp may allow the clamp to move from its original position when turning/steering",
+      "summary": "On certain motorcycles, an incorrect speed sensor cable clamp may allow the clamp to move from its original position when turning/steering. If this happens, the speed sensor cable (lead wire) may bend and break, causing the speedometer to stop displaying vehicle speed. This could result in the vehicle being driven at higher speed than anticipated, which could increase the risk of a crash. Correction: Dealers will replace the speed sensor cable with a new one of a different design.",
+      "risk": "",
+      "remedy": "",
+      "component": "Electrical",
+      "campaignNumber": "2016606",
+      "manufacturerCampaign": "M16-104",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2016606",
+      "publishedAt": "2016-12-06",
+      "sourceModel": "SMAX",
+      "matchConfidence": "family"
+    },
+    {
+      "id": "tc-2016444",
+      "make": "Honda",
+      "models": [
+        "Forza 125",
+        "Forza 250",
+        "Forza 300",
+        "Forza 350",
+        "Forza 750",
+        "Forza Si 250"
+      ],
+      "years": [
+        2014,
+        2015
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain motorcycles, the resin inlet cover of the fuel pump may swell abnormally and interfere with the rotation of the impeller which may cause the fuel pum",
+      "summary": "On certain motorcycles, the resin inlet cover of the fuel pump may swell abnormally and interfere with the rotation of the impeller which may cause the fuel pump to stop working properly.  While parked, this can prevent the engine from starting.  If this occurs while riding, it may cause the engine to stall and possibly not restart.  Engine stalling, in conjunction with traffic, road conditions, and driver's reactions, could increase the risk of a crash causing injury and/or property damage.  Correction:  Dealers will replace the original fuel pump with an updated pump.  Note: This recall supersedes recall 2014-473. Vehicles repaired under the previous recall will require re-inspection and repair.",
+      "risk": "",
+      "remedy": "",
+      "component": "Fuel System",
+      "campaignNumber": "2016444",
+      "manufacturerCampaign": "MK49 / MK50",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2016444",
+      "publishedAt": "2016-09-12",
+      "sourceModel": "FORZA (NSS300)",
+      "matchConfidence": "family"
+    },
+    {
+      "id": "tc-2016126",
+      "make": "Honda",
+      "models": [
+        "PCX 150"
+      ],
+      "years": [
+        2013,
+        2015,
+        2016
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "Certain motorcycles equipped with a Honda accessory rear trunk could contain a safety defect",
+      "summary": "Certain motorcycles equipped with a Honda accessory rear trunk could contain a safety defect. The trunk base locking hook could fail to fully engage when the locking lever is lowered. This could cause the trunk to inadvertently detach from the base and startle the driver, and/or pose a risk to other road users, which could increase the risk of a crash causing injury and/or damage to property. Correction: Dealers will temporarily attach the trunk to the motorcycle using cable ties. Dealers will replace the trunk base with a redesigned unit once parts become available.",
+      "risk": "",
+      "remedy": "",
+      "component": "Accessories",
+      "campaignNumber": "2016126",
+      "manufacturerCampaign": "MK45",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2016126",
+      "publishedAt": "2016-03-21",
+      "sourceModel": "PCX150",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "tc-2016085",
+      "make": "Honda",
+      "models": [
+        "Forza 125",
+        "Forza 250",
+        "Forza 300",
+        "Forza 350",
+        "Forza 750",
+        "Forza Si 250"
+      ],
+      "years": [
+        2014
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain motorcycles, the rear brake line joint may have been improperly torqued during assembly",
+      "summary": "On certain motorcycles, the rear brake line joint may have been improperly torqued during assembly. This could cause brake fluid to leak from the loose connection, resulting in a reduction or loss of rear brake pressure. This could increase stopping distances and affect vehicle control, which could result in crash causing injury and/or property damage. Correction: Dealers will torque the rear brake line joint to specification and if necessary, fill the rear brake reservoir.",
+      "risk": "",
+      "remedy": "",
+      "component": "Brakes",
+      "campaignNumber": "2016085",
+      "manufacturerCampaign": "MK44",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2016085",
+      "publishedAt": "2016-02-22",
+      "sourceModel": "FORZA (NSS300)",
+      "matchConfidence": "family"
+    },
+    {
+      "id": "nhtsa-16V018000",
+      "make": "Suzuki",
+      "models": [
+        "Burgman 400"
+      ],
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "Due to a problem with the circuit board for the regulator/rectifier power module, the motorcycle may not sufficiently charge the battery and the motorcycle may ",
+      "summary": "Suzuki Motor of America, Inc. (Suzuki) is recalling certain model year 2008-2012 AN400, AN400A, DL1000, GSX1300R, 2008-2009 GSF1250S and GSF1250SA, 2008 GSX1300BK and GSX1300BKA, 2008-2010 GSX650F, GSX-R600, GSX-R750, VLR1800, VLR1800T, and 2009-2010 SFV650 and VZ1500 motorcycles. Due to a problem with the circuit board for the regulator/rectifier power module, the motorcycle may not sufficiently charge the battery and the motorcycle may stall.",
+      "risk": "If the engine stalls while riding, there would be an increased risk of a crash.",
+      "remedy": "Suzuki will notify owners, and dealers will replace the regulator/rectifier, free of charge. The recall is expected to begin March 4, 2016. Owners may contact Suzuki customer service at 1-800-444-5077. Suzuki's number for this recall is 2A56 to 2A64.",
+      "component": "ELECTRICAL SYSTEM",
+      "campaignNumber": "16V018000",
+      "manufacturerCampaign": "2A56 to 2A64",
+      "productionRange": [
+        "2007-08-01",
+        "2012-03-24"
+      ],
+      "unitsAffected": 68344,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=16V018000",
+      "publishedAt": "2016-01-19",
+      "sourceModel": "AN400",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "tc-2016022",
+      "make": "Suzuki",
+      "models": [
+        "Burgman 400"
+      ],
+      "years": [
+        2010,
+        2011,
+        2012
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain motorcycles, the regulator/rectifier assembly may have been produced with insufficient adhesion between the power module (circuit board) and the rect",
+      "summary": "On certain motorcycles, the regulator/rectifier assembly may have been produced with insufficient adhesion between the power module (circuit board) and the rectifier case.  Due to this insufficient adhesion, heat generated on the power module circuit board can cause the circuit board to deform.  This could cause excessive heat on the circuit board and uncontrolled electric current output, which can result in insufficient charging current being provided to the vehicle's battery.  Battery discharge could lead to engine stalling and/or a no-start condition.  Lost propulsion, in conjunction with traffic and road conditions, and the rider's reactions, could increase the risk of a crash causing property damage and/or personal injury.  Correction: Dealers will replace the regulator/rectifier assembly. Note: This recall may supersede recall 2011-071 for certain model motorcycles, which will require re-inspection and repair.",
+      "risk": "",
+      "remedy": "",
+      "component": "Electrical",
+      "campaignNumber": "2016022",
+      "manufacturerCampaign": "115",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2016022",
+      "publishedAt": "2016-01-18",
+      "sourceModel": "BURGMAN 400 (AN400)",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "tc-2015605",
+      "make": "Suzuki",
+      "models": [
+        "Burgman 650"
+      ],
+      "years": [
+        2013,
+        2014
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain motorcycles, contamination between the valve tappet and cam may cause the hardened surface of the valve tappet to peel if the surface shape of the va",
+      "summary": "On certain motorcycles, contamination between the valve tappet and cam may cause the hardened surface of the valve tappet to peel if the surface shape of the valve tappet is convex. This would allow the inner part of the valve tappet to come in contact with the cam, which could cause both the valve tappet and cam to wear, increasing the valve tappet clearance. If the valve tappet clearance becomes large, it can result in an abnormal noise and can cause the engine to stall. An engine stall could lead to a loss of stability of the motorcycle, which could increase the risk of a crash causing injury and/or property damage.  Correction: For motorcycles with odometer readings of 4,000 kilometers or greater, dealers will inspect the tappet clearances and will replace the valve tappets and camshafts if the valve tappets clearances are greater than the specification.  For motorcycles with odometer readings of less than 4,000 kilometers, dealers will replace the tappets and camshafts, because the tappet clearances may be within the specification at low mileage even if there is abnormal wear.",
+      "risk": "",
+      "remedy": "",
+      "component": "Engine",
+      "campaignNumber": "2015605",
+      "manufacturerCampaign": "113",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2015605",
+      "publishedAt": "2015-12-21",
+      "sourceModel": "BURGMAN 650 (AN650A)",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-15V852000",
+      "make": "Suzuki",
+      "models": [
+        "Burgman 650"
+      ],
+      "years": [
+        2013,
+        2014
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "Contamination from component production and storage combined with manufacturing variations may result in excessive tappet and camshaft wear within the engines o",
+      "summary": "Suzuki Motor of America, Inc. (Suzuki) is recalling certain model year 2013-2014 SFV650 and AN650A, and 2012-2014 DL650A motorcycles. Contamination from component production and storage combined with manufacturing variations may result in excessive tappet and camshaft wear within the engines of the affected motorcycles.",
+      "risk": "The excessive wear may result in an engine stall, increasing the risk of a crash.",
+      "remedy": "Suzuki will notify owners, and dealers will inspect the tappet clearance, replacing the tappets and camshafts, as necessary. All motorcycles that have less than 2500 miles will have their tappets and camshafts replaced since wear may not be evident. These repairs will be performed free of charge. The recall began on February 5, 2016. Owners may contact Suzuki customer service at 1-714-996-7040. Suzuki's number for this recall is 2A50, 2A51, and 2A52.",
+      "component": "ENGINE AND ENGINE COOLING:ENGINE",
+      "campaignNumber": "15V852000",
+      "manufacturerCampaign": "2A50, 2A51, 2A52",
+      "productionRange": [
+        "2013-11-07",
+        "2013-11-22"
+      ],
+      "unitsAffected": 6214,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=15V852000",
+      "publishedAt": "2015-12-18",
+      "sourceModel": "AN650",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-15V583000",
+      "make": "Kymco",
+      "models": [
+        "Super 8 150X",
+        "Super 8 50X"
+      ],
+      "years": [
+        2015
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "In the affected models, the front hydraulic brake hose may be improperly routed, and as a result, the brake hose may contact the front tire when the front suspe",
+      "summary": "KYMCO (KYMCO USA) is recalling certain model year 2015 Super 8-50 X and 2015 Super 8-150 X road scooters manufactured February 6, 2015, to September 15, 2015. In the affected models, the front hydraulic brake hose may be improperly routed, and as a result, the brake hose may contact the front tire when the front suspension is compressed.",
+      "risk": "If the hydraulic brake hose contacts the tire, the hose may rupture, resulting in a loss of front brakes and increasing the risk of a crash.",
+      "remedy": "KYMCO will notify owners, and dealers will replace the two brake hose securing brackets, free of charge. . Owners may contact KYMCO customer service at 1-888-235-3417.",
+      "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+      "campaignNumber": "15V583000",
+      "manufacturerCampaign": "",
+      "productionRange": [
+        "2015-02-06",
+        "2015-09-15"
+      ],
+      "unitsAffected": 824,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=15V583000",
+      "publishedAt": "2015-09-22",
+      "sourceModel": "SUPER 8-150 X",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-15V066000",
+      "make": "Vespa",
+      "models": [
+        "Beverly 300",
+        "GTS 250",
+        "GTS 300",
+        "GTV 300"
+      ],
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "Due to a defective fuel pump, the affected motorcycles may stall while being operated or may fail to restart after being shut off for 15-20 minutes.",
+      "summary": "Piaggio Group Americas Inc. (Piaggio) is recalling certain model year 2008-2010 Vespa GTS 250, GTV 250, GTS Super 250, 2011 Vespa LX 150, LXV 150, S 150, 2010-2011 Vespa GTS 300, GTV 300, GTS Super 300, 2009-2010 Piaggio MP3 250, BV 250 Tourer, and 2010 BV 300 Tourer motorcycles. Due to a defective fuel pump, the affected motorcycles may stall while being operated or may fail to restart after being shut off for 15-20 minutes.",
+      "risk": "If the motorcycle stalls, there is an increased risk of a crash.",
+      "remedy": "Piaggio will notify owners, and dealers will replace the defective fuel pump, free of charge. The recall began March 16, 2015. Owners may contact Piaggio customer service at 1-212-380-4433.",
+      "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+      "campaignNumber": "15V066000",
+      "manufacturerCampaign": "",
+      "productionRange": [
+        "2008-03-21",
+        "2010-05-12"
+      ],
+      "unitsAffected": 2613,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=15V066000",
+      "publishedAt": "2015-02-04",
+      "sourceModel": "GTS SUPER 250",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "tc-2014473",
+      "make": "Honda",
+      "models": [
+        "Forza 125",
+        "Forza 250",
+        "Forza 300",
+        "Forza 350",
+        "Forza 750",
+        "Forza Si 250"
+      ],
+      "years": [
+        2014
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "compliance",
+      "title": "On certain motorcycles, a resin bracket inside the fuel pump may swell and interfere with the impeller which may cause the fuel pump to stop working properly",
+      "summary": "On certain motorcycles, a resin bracket inside the fuel pump may swell and interfere with the impeller which may cause the fuel pump to stop working properly.  While parked, this can prevent the engine from starting.  While riding, particles may become stuck between the bracket and the impeller causing the engine to stall and possibly not restart.  Engine stalling, in conjunction with traffic, road conditions, and driver's reactions, could increase the risk of a crash causing injury and/or property damage.  Correction:  Dealers will replace the original fuel pump with an updated pump. Note: This recall is superseded by recall 2016-444.",
+      "risk": "",
+      "remedy": "",
+      "component": "Fuel System",
+      "campaignNumber": "2014473",
+      "manufacturerCampaign": "",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2014473",
+      "publishedAt": "2014-10-23",
+      "sourceModel": "FORZA (NSS300)",
+      "matchConfidence": "family"
+    },
+    {
+      "id": "tc-2014302",
+      "make": "Vespa",
+      "models": [
+        "946 125",
+        "946 150"
+      ],
+      "years": [
+        2013
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "safety",
+      "title": "On certain vehicles, the fuel line was improperly manufactured, which could result in a fuel leak",
+      "summary": "On certain vehicles, the fuel line was improperly manufactured, which could result in a fuel leak. Fuel leakage, in the presence of an ignition source, could result in a fire causing injury and/or property damage.  Correction: Dealers will replace the fuel lines.",
+      "risk": "",
+      "remedy": "",
+      "component": "Fuel System",
+      "campaignNumber": "2014302",
+      "manufacturerCampaign": "",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2014302",
+      "publishedAt": "2014-07-16",
+      "sourceModel": "946",
+      "matchConfidence": "family"
+    },
+    {
+      "id": "nhtsa-14V364000",
+      "make": "Vespa",
+      "models": [
+        "946 125",
+        "946 150"
+      ],
+      "years": [
+        2013
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The affected scooters have fuel line that may leak.",
+      "summary": "Piaggio Group Americas, Inc. (Piaggio) is recalling certain model year 2013 Vespa 946 scooters manufactured August 6, 2013, through October 15, 2013. The affected scooters have fuel line that may leak.",
+      "risk": "A fuel line leak may result in the scooter stalling, increasing the risk of a crash. Additionally, a fuel leak in the presence of an ignition source may result in a fire.",
+      "remedy": "Piaggio has notified owners, and dealers will replace the fuel line, free of charge. The recall began on August 12, 2014. Owners may contact Piaggio customer service at 1-212-380-4433.",
+      "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+      "campaignNumber": "14V364000",
+      "manufacturerCampaign": "",
+      "productionRange": [
+        "2013-08-06",
+        "2013-10-15"
+      ],
+      "unitsAffected": 305,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=14V364000",
+      "publishedAt": "2014-06-24",
+      "sourceModel": "946",
+      "matchConfidence": "family"
+    },
+    {
+      "id": "nhtsa-12V038000",
+      "make": "Suzuki",
+      "models": [
+        "Burgman 400",
+        "Burgman 650"
+      ],
+      "years": [
+        2012
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "Suzuki is recalling certain model year 2012 an400, an650, and dl650 scooters and motorcycles manufactured prior to december 17, 2011, because the lever-mounted ",
+      "summary": "SUZUKI IS RECALLING CERTAIN MODEL YEAR 2012 AN400, AN650, AND DL650 SCOOTERS AND MOTORCYCLES MANUFACTURED PRIOR TO DECEMBER 17, 2011, BECAUSE THE LEVER-MOUNTED BRAKE LIGHT ACTUATING SWITCH(ES) MAY FAIL.",
+      "risk": "ON THE AN400 AND AN650 MODELS, FAILURE OF THE SWITCHES WILL PREVENT THE SCOOTERS FROM STARTING. ON ALL OF THE AFFECTED MODELS, FAILURE OF THE BRAKE LIGHT SWITCH(ES) MAY CAUSE THE BRAKE LIGHTS TO NOT ILLUMINATE WHEN A SCOOTER OR MOTORCYCLE IS BRAKING, THEREBY INCREASING THE RISK OF A CRASH WITH A TRAILING VEHICLE.",
+      "remedy": "SUZUKI WILL NOTIFY OWNERS, AND SUZUKI DISTRIBUTORS WILL REPLACE THE BRAKE LIGHT ACTUATING SWITCH, FREE OF CHARGE. THE SAFETY RECALL BEGAN ON FEBRUARY 13, 2011. OWNERS MAY CONTACT SUZUKI AT 1-714-996-7040.",
+      "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+      "campaignNumber": "12V038000",
+      "manufacturerCampaign": "2A26/2A27",
+      "productionRange": [
+        "2011-09-14",
+        "2011-12-17"
+      ],
+      "unitsAffected": 1396,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=12V038000",
+      "publishedAt": "2012-02-03",
+      "sourceModel": "AN650",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "tc-2012013",
+      "make": "Piaggio",
+      "models": [
+        "Fly 50 4T"
+      ],
+      "years": [
+        2011,
+        2012
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "compliance",
+      "title": "On certain scooters, the ignition control unit may not function correctly during engine starting, which could cause an engine backfire into the airbox",
+      "summary": "On certain scooters, the ignition control unit may not function correctly during engine starting, which could cause an engine backfire into the airbox.  This could result in a vehicle fire causing property damage and/or personal injury.  Correction: Dealers will replace the ignition control unit with an updated version.",
+      "risk": "",
+      "remedy": "",
+      "component": "Engine",
+      "campaignNumber": "2012013",
+      "manufacturerCampaign": "",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2012013",
+      "publishedAt": "2012-01-18",
+      "sourceModel": "FLY 50 4V",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-11V603000",
+      "make": "Piaggio",
+      "models": [
+        "Fly 50 4T"
+      ],
+      "years": [
+        2011,
+        2012
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "The ignition control unit may fail and alter the ignition timing.",
+      "summary": "PIAGGIO IS RECALLING CERTAIN MODEL YEAR 2011-2012 FLY 50 4T 4-VALVE SCOOTERS, MODEL YEAR 2010-2012 VESPA LX50 4T 4-VALVE SCOOTERS, AND MODEL YEAR 2009-2012 VESPA S50 4T 4-VALVE SCOOTERS. THE IGNITION CONTROL UNIT MAY FAIL AND ALTER THE IGNITION TIMING.",
+      "risk": "IMPROPER IGNITION TIMING MAY CAUSE AN ENGINE BACKFIRE INTO THE AIRBOX, INCREASING THE RISK OF A FIRE.",
+      "remedy": "PIAGGIO WILL NOTIFY OWNERS, AND DEALERS WILL REPLACE THE IGNITION CONTROL UNIT FREE OF CHARGE. THE SAFETY RECALL IS EXPECTED TO BEGIN ON OR BEFORE JANUARY 17, 2012. OWNERS MAY CONTACT PIAGGIO CUSTOMER CARE HELPLINE AT 212-380-4433.",
+      "component": "ELECTRICAL SYSTEM:IGNITION:MODULE",
+      "campaignNumber": "11V603000",
+      "manufacturerCampaign": "",
+      "productionRange": [
+        "",
+        ""
+      ],
+      "unitsAffected": 2147,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=11V603000",
+      "publishedAt": "2011-12-28",
+      "sourceModel": "FLY 50",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "nhtsa-11V108000",
+      "make": "Suzuki",
+      "models": [
+        "Burgman 400"
+      ],
+      "years": [
+        2008,
+        2009
+      ],
+      "markets": [
+        "US"
+      ],
+      "severity": "safety",
+      "title": "Some regulator/rectifier assemblies were produced with insufficient adhesion between the power module (circuit board) and the rectifier case that contains a hea",
+      "summary": "SUZUKI IS RECALLING CERTAIN MODEL YEAR 2008 THROUGH 2010 MOTORCYCLES MANUFACTURED FROM JULY 2007 THROUGH SEPTEMBER 2009, EQUIPPED WITH REGULATOR/RECTIFIER ASSEMBLIES, SUZUKI PART NUMBERS 32800-41F11, 32800-15H10, 32800-05H11, 32800-41G10, 32800-15H00, 32800-18H00, 32800-05G10, 32800-10G10, 32800-05H20, OR 32800-06G01. SOME REGULATOR/RECTIFIER ASSEMBLIES WERE PRODUCED WITH INSUFFICIENT ADHESION BETWEEN THE POWER MODULE (CIRCUIT BOARD) AND THE RECTIFIER CASE THAT CONTAINS A HEAT SINK TO DISSIPATE HEAT. DUE TO INSUFFICIENT ADHESION, HEAT GENERATED ON THE POWER MODULE CIRCUIT BOARD CAN CAUSE THE CIRCUIT BOARD TO DEFORM, AND LIFT OF THE CASE.",
+      "risk": "THIS CONDITION CAUSES EXCESSIVE HEAT ON THE CIRCUIT BOARD AND UNCONTROLLED ELECTRIC CURRENT OUTPUT, WHICH CAN RESULT IN INSUFFICIENT CHARGING CURRENT BEING PROVIDED TO THE MOTORCYCLE BATTERY. THIS CAN CAUSE DISCHARGE OF THE BATTERY AND CAN LEAD TO ENGINE STALLING AND/OR A NO-START CONDITION. ENGINE STALLING WHILE RIDING CAN INCREASE THE RISK OF A CRASH.",
+      "remedy": "SUZUKI WILL NOTIFY OWNERS AND SUZUKI DISTRIBUTORS WILL REPLACE THE REGULATOR/RECTIFIER WITH AN IMPROVED PART FREE OF CHARGE. THE SAFETY RECALL BEGAN ON MARCH 2, 2011. OWNERS MAY CONTACT SUZUKI AT 1-714-572-1490.",
+      "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+      "campaignNumber": "11V108000",
+      "manufacturerCampaign": "",
+      "productionRange": [
+        "2009-04-01",
+        "2009-08-31"
+      ],
+      "unitsAffected": 73426,
+      "sourceName": "NHTSA",
+      "sourceURL": "https://www.nhtsa.gov/recalls?nhtsaId=11V108000",
+      "publishedAt": "2011-02-23",
+      "sourceModel": "AN400",
+      "matchConfidence": "exact"
+    },
+    {
+      "id": "tc-2009195",
+      "make": "Honda",
+      "models": [
+        "SH 150i"
+      ],
+      "years": [
+        2010
+      ],
+      "markets": [
+        "CA"
+      ],
+      "severity": "compliance",
+      "title": "Certain scooters do not have any horizontal headlight aim adjustment",
+      "summary": "Certain scooters do not have any horizontal headlight aim adjustment.  This does not comply with the requirements of TSD 7.8.2.  The handlebar mounted headlight is aimed at the time of manufacture.  Correction: Since this does not pose any safety risk, no corrective action is required.",
+      "risk": "",
+      "remedy": "",
+      "component": "Lights And Instruments",
+      "campaignNumber": "2009195",
+      "manufacturerCampaign": "",
+      "sourceName": "Transport Canada",
+      "sourceURL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2009195",
+      "publishedAt": "2009-07-06",
+      "sourceModel": "SH150I",
+      "matchConfidence": "exact"
+    }
+  ]
+}
